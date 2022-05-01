@@ -4,9 +4,9 @@
 
 Olá, meu nome é Juliana Raquel de Medeiros Santos, 👋
 
-⚔️ Tenho formação no Bacharelado em **Ciência e Tecnologia** pela **UFERSA** e em **Tecnologia de Petróleo e Gás** pela **Universidade Potiguar**
+⚖ Tenho formação no Bacharelado em **Ciência e Tecnologia** pela **UFERSA** e em **Tecnologia de Petróleo e Gás** pela **Universidade Potiguar**
 
-📈 Atualmente eu estudo desenvolvimento Web pelo **Bootcamp DevPro** com ênfase na linguagem **Python** e no Framework **Django**.
+🧧 Atualmente eu estudo desenvolvimento Web pelo **Bootcamp DevPro** com ênfase na linguagem **Python** e no Framework **Django**.
 
 ✨ Tenho interesse também em desenvolver conhecimentos em Testes Automáticos, Automação de Processos e Bancos de Dados.
 
@@ -33,7 +33,6 @@ Olá, meu nome é Juliana Raquel de Medeiros Santos, 👋
 
 📱 **Contato**
 
-<img src="https://img.shields.io/badge/Messenger-00B2FF?style=for-the-badge&logo=messenger&logoColor=white"></a>
 <a href = "mailto:julianamedeiros_228@hotmail.com"><img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white"></a>
 <a href = "mailto:julianamedeiros_228@hotmail.com"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"></a>
-  <a href="https://www.linkedin.com/in/rafaella-ballerini-45875016a" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>  
+  <a href="https://www.linkedin.com/in/juliana-medeiros228/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>  
