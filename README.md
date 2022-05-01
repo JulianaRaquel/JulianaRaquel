@@ -26,6 +26,7 @@ Olá, meu nome é Juliana Raquel de Medeiros Santos, 👋
 
 <img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white"></a> 
 <a href="https://github.com/JulianaRaquel" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"></a> 
+<img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white"></a>
 
 **OS**
 
