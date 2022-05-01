@@ -10,6 +10,14 @@ Olá, meu nome é Juliana Raquel de Medeiros Santos, 👋
 
 ✨ Tenho interesse também em desenvolver conhecimentos em Testes Automáticos, Automação de Processos e Bancos de Dados.
 
+<a href="https://github.com/JulianaRaquel">
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=JulianaRaquel&show_icons=true&theme=blue-green&include_all_commits=true&count_private=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JulianaRaquel&theme=blue-green&include_all_commits=true&count_private=true"/>
+  
+  
+  
+  
+
 **Linguagem**
 
 <img src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white"></a>
