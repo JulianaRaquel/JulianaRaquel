@@ -1,4 +1,6 @@
 
+![](https://estruyf-github.azurewebsites.net/api/VisitorHit?user=JulianaRaquel&repo=JulianaRaquel&countColorcountColor&countColor=%237B1E7A)
+
 
 
 
