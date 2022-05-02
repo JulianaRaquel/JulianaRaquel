@@ -4,7 +4,7 @@
 
 
 
-Olá, meu nome é Juliana Raquel de Medeiros Santos, 👋
+Olá, meu nome é Juliana Raquel de Medeiros Santos, 👋        
 <br>
 <br>
 ⚖ Tenho formação no Bacharelado em **Ciência e Tecnologia** pela **UFERSA** e em **Tecnologia de Petróleo e Gás** pela **Universidade Potiguar**
@@ -14,6 +14,8 @@ Olá, meu nome é Juliana Raquel de Medeiros Santos, 👋
 <br>
 
 ✨ Tenho interesse também em desenvolver conhecimentos em Testes Automáticos, Automação de Processos e Bancos de Dados.
+<img src="https://img.shields.io/badge/Made%20with-Markdown-1f425f.svg"></a>
+
 <br>
 <br>
 <div align="center">
