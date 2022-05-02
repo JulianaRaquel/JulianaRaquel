@@ -14,7 +14,6 @@ Olá, meu nome é Juliana Raquel de Medeiros Santos, 👋
 <br>
 
 ✨ Tenho interesse também em desenvolver conhecimentos em Testes Automáticos, Automação de Processos e Bancos de Dados.
-<img src="https://img.shields.io/badge/Made%20with-Markdown-1f425f.svg"></a>
 
 <br>
 <br>
