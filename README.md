@@ -11,20 +11,14 @@ Olá, meu nome é Juliana Raquel de Medeiros Santos, 👋
 🧧 Atualmente eu estudo desenvolvimento Web pelo **Bootcamp DevPro** com ênfase na linguagem **Python** e no Framework **Django**.
 
 ✨ Tenho interesse também em desenvolver conhecimentos em Testes Automáticos, Automação de Processos e Bancos de Dados.
-
-
+<br>
+<br>
 <div align="center">
   <a href="https://github.com/JulianaRaquel">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=JulianaRaquel&show_icons=true&theme=blue-green&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JulianaRaquel&layout=compact&langs_count=7&theme=blue-green"/>
 </div>
 <div style="display: inline_block"><br>
-  
-  
-  
-  
-  
-  
 
 ### **⌨ Linguagem**
 
