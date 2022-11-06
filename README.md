@@ -42,6 +42,7 @@ Olá, meu nome é Juliana Raquel de Medeiros Santos, 👋
 ### **🖥 OS**
 
 <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white"></a>
+<img src="https://img.shields.io/badge/-KUbuntu-%230079C1?style=for-the-badge&logo=kubuntu&logoColor=white"></a>
 
 ### **📱 Contato**
 
@@ -49,5 +50,4 @@ Olá, meu nome é Juliana Raquel de Medeiros Santos, 👋
 <a href = "https://t.me/JulianaRMedeiros"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"></a>
   <a href="https://www.linkedin.com/in/juliana-medeiros228/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>  
   
-  
-  ![Snake animation](https://github.com/JulianaRaquel/JulianaRaquel/blob/output/github-contribution-grid-snake.svg)
+
