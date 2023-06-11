@@ -51,6 +51,6 @@ Olá, meu nome é Juliana Raquel de Medeiros Santos, 👋
 
 ### **📱 Contato**
 <a href="https://t.me/JulianaRMedeiros" target="_blank"> <img src="https://icons8.com/icon/63306/telegram-app" alt="telegram" width="40" height="40"/> </a>
-  <a href="https://www.linkedin.com/in/juliana-medeiros228/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>  
+<a href="https://www.linkedin.com/in/juliana-medeiros-backend/" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="linkedin" width="40" height="40"/> </a>  
   
 
