@@ -46,8 +46,8 @@ Olá, meu nome é Juliana Raquel de Medeiros Santos, 👋
 
 ### **🖥 OS**
 
-<img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white"></a>
-<img src="https://img.shields.io/badge/-KUbuntu-%230079C1?style=for-the-badge&logo=kubuntu&logoColor=white"></a>
+<a href="https://www.microsoft.com/pt-br/windows/" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" alt="windows" width="40" height="40"/> </a> 
+<a href="https://ubuntu.com/download" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ubuntu/ubuntu-plain-wordmark.svg" alt="ubuntu" width="40" height="40"/> </a>
 
 ### **📱 Contato**
 <a href = "https://t.me/JulianaRMedeiros"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"></a>
