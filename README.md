@@ -26,7 +26,7 @@ Olá, meu nome é Juliana Raquel de Medeiros Santos, 👋
 
 ### **⌨ Linguagem**
 
-<img src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white"></a>
+<a href="https://www.python.org/" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> 
 
 ### **💻 IDE**
 
