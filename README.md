@@ -50,7 +50,7 @@ Olá, meu nome é Juliana Raquel de Medeiros Santos, 👋
 <a href="https://ubuntu.com/download" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ubuntu/ubuntu-plain-wordmark.svg" alt="ubuntu" width="40" height="40"/> </a>
 
 ### **📱 Contato**
-<a href = "https://t.me/JulianaRMedeiros"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"></a>
+<a href="https://t.me/JulianaRMedeiros" target="_blank"> <img src="https://icons8.com/icon/63306/telegram-app" alt="telegram" width="40" height="40"/> </a>
   <a href="https://www.linkedin.com/in/juliana-medeiros228/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>  
   
 
