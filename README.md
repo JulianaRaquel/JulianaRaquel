@@ -24,14 +24,19 @@ Olá, meu nome é Juliana Raquel de Medeiros Santos, 👋
 </div>
 <div style="display: inline_block"><br>
 
-### **⌨ Linguagem**
+### **⌨ Linguagens**
 
-<a href="https://www.python.org/" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> 
+<a href="https://www.python.org/" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a>
+<a href="https://www.java.org/" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> 
+<a href="https://www.python.org/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/1/18/ISO_C%2B%2B_Logo.svg" alt="bootstrap" width="40" height="40"/> </a>
+
 
 ### **💻 IDE**
 
 <a href="https://www.jetbrains.com/pt-br/pycharm/" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pycharm/pycharm-plain.svg" alt="pycharm" width="40" height="40"/> </a>
 <a href="https://code.visualstudio.com/" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original-wordmark.svg" alt="vscode" width="40" height="40"/> </a>
+<a href="https://visualstudio.microsoft.com/pt-br/downloads/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/5/59/Visual_Studio_Icon_2019.svg" alt="bootstrap" width="40" height="40"/> </a>
+
 
 ### **⚔ Ferramentas**
 
