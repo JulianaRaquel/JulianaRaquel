@@ -38,7 +38,7 @@ Olá, meu nome é Juliana Raquel de Medeiros Santos, 👋
   </a>&nbsp;&nbsp;
   <a href="https://visualstudio.microsoft.com/pt-br/downloads/" target="_blank">
     <img src="https://upload.wikimedia.org/wikipedia/commons/5/59/Visual_Studio_Icon_2019.svg" height="40"/>
-  </a>
+  </a>&nbsp;&nbsp;
   <a href="https://www.eclipse.org/ide/" target="_blank">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/eclipse/eclipse-original.svg" height="40"/>
   </a>
