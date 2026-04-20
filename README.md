@@ -80,7 +80,7 @@ Olá, meu nome é Juliana Raquel de Medeiros Santos, 👋
   <a href="https://www.microsoft.com/pt-br/windows/" target="_blank">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" height="40"/>
   </a>&nbsp;&nbsp;
-  <a href="https://ubuntu.com/download" target="_blank">
+  <a href="https://ubuntu.com/" target="_blank">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ubuntu/ubuntu-plain.svg" height="40"/>
   </a>
 </p>
