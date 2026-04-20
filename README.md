@@ -30,8 +30,8 @@ Olá, meu nome é Juliana Raquel de Medeiros Santos, 👋
 ### **💻 IDE**
 
 <p>
-  <a href="https://www.jetbrains.com/pt-br/pycharm/" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pycharm/pycharm-plain.svg" height="40"/>
+  <a href="https://www.jetbrains.com/pycharm/" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pycharm/pycharm-original.svg" height="40"/>
   </a>&nbsp;&nbsp;
   <a href="https://code.visualstudio.com/" target="_blank">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40"/>
