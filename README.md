@@ -29,9 +29,17 @@ Olá, meu nome é Juliana Raquel de Medeiros Santos, 👋
 
 ### **💻 IDE**
 
-<a href="https://www.jetbrains.com/pt-br/pycharm/" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pycharm/pycharm-plain.svg" alt="pycharm" width="40" height="40"/> </a>
-<a href="https://code.visualstudio.com/" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original-wordmark.svg" alt="vscode" width="40" height="40"/> </a>
-<a href="https://visualstudio.microsoft.com/pt-br/downloads/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/5/59/Visual_Studio_Icon_2019.svg" alt="bootstrap" width="40" height="40"/> </a>
+<p>
+  <a href="https://www.jetbrains.com/pt-br/pycharm/" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pycharm/pycharm-plain.svg" height="40"/>
+  </a>&nbsp;&nbsp;
+  <a href="https://code.visualstudio.com/" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40"/>
+  </a>&nbsp;&nbsp;
+  <a href="https://visualstudio.microsoft.com/pt-br/downloads/" target="_blank">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/5/59/Visual_Studio_Icon_2019.svg" height="40"/>
+  </a>
+</p>
 
 
 ### **⚔ Ferramentas**
