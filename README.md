@@ -10,11 +10,6 @@ Olá, meu nome é Juliana Raquel de Medeiros Santos, 👋
 ⚖ Estou me formando no Bacharelado em **Ciência da Computação** pela **UFERSA - Universidade Federal Rural do Semi-árido**
 <br>
 
-🧧 Atualmente eu estudo desenvolvimento Web pelo **Bootcamp DevPro** com ênfase na linguagem **Python** e no Framework **Django**.
-<br>
-
-✨ Tenho adquirido também conhecimentos em Testes Automáticos, REST API, CI/CD, PostgreSQL e Docker.
-
 <br>
 <br>
 <div align="center">
