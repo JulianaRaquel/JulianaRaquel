@@ -17,21 +17,14 @@ Olá, meu nome é Juliana Raquel de Medeiros Santos, 👋
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=JulianaRaquel&show_icons=true&theme=blue-green&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JulianaRaquel&layout=compact&langs_count=7&theme=blue-green"/>
 </div>
-<div style="display: inline_block"><br>
 
 ### ⌨ Linguagens
 
-<div>
-  <a href="https://www.python.org/" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" width="40" height="40"/>
-  </a>
-  <a href="https://www.java.com/" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" width="40" height="40"/>
-  </a>
-  <a href="https://isocpp.org/" target="_blank">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/1/18/ISO_C%2B%2B_Logo.svg" width="40" height="40"/>
-  </a>
-</div>
+<p>
+  <a href="https://www.python.org/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" width="40"/></a>&nbsp;
+  <a href="https://www.java.com/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" width="40"/></a>&nbsp;
+  <a href="https://isocpp.org/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/1/18/ISO_C%2B%2B_Logo.svg" width="40"/></a>
+</p>
 
 
 ### **💻 IDE**
