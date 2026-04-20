@@ -21,17 +21,17 @@ Olá, meu nome é Juliana Raquel de Medeiros Santos, 👋
 
 ### ⌨ Linguagens
 
-<p align="left">
+<div>
   <a href="https://www.python.org/" target="_blank">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" width="40" height="40"/>
   </a>
-  <a href="https://www.java.org/" target="_blank">
+  <a href="https://www.java.com/" target="_blank">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" width="40" height="40"/>
   </a>
-  <a href="https://www.python.org/" target="_blank">
+  <a href="https://isocpp.org/" target="_blank">
     <img src="https://upload.wikimedia.org/wikipedia/commons/1/18/ISO_C%2B%2B_Logo.svg" width="40" height="40"/>
   </a>
-</p>
+</div>
 
 
 ### **💻 IDE**
