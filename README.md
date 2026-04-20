@@ -19,11 +19,15 @@ Olá, meu nome é Juliana Raquel de Medeiros Santos, 👋
 </div>
 <div style="display: inline_block"><br>
 
-### **⌨ Linguagens**
+### ⌨ Linguagens
 
-<a href="https://www.python.org/" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a>
-<a href="https://www.java.org/" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> 
-<a href="https://www.python.org/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/1/18/ISO_C%2B%2B_Logo.svg" alt="bootstrap" width="40" height="40"/> </a>
+<a href="https://www.python.org/" target="_blank">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" width="40" height="40"/>
+</a><a href="https://www.java.org/" target="_blank">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" width="40" height="40"/>
+</a><a href="https://www.python.org/" target="_blank">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/1/18/ISO_C%2B%2B_Logo.svg" width="40" height="40"/>
+</a>
 
 
 ### **💻 IDE**
