@@ -41,6 +41,9 @@ Olá, meu nome é Juliana Raquel de Medeiros Santos, 👋
   </a>&nbsp;&nbsp;
   <a href="https://www.eclipse.org/ide/" target="_blank">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/eclipse/eclipse-original.svg" height="40"/>
+  </a>&nbsp;&nbsp;
+  <a href="https://spring.io/projects/spring-boot" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="40"/>
   </a>
 </p>
 
